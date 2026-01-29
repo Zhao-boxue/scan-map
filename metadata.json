@@ -1,0 +1,7 @@
+{
+  "name": "扫图机器人专业版",
+  "description": "专业机器人地图扫描与导航控制界面。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
